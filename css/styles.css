@@ -1,0 +1,38 @@
+
+
+
+.jumbotron{
+    background: #9575CD ;
+    margin-bottom: 0px;
+    color: #fff;
+}
+
+nav{
+    background-color: #6b27e0d0;
+    z-index: 1;
+}
+
+body{
+    z-index: 0;
+
+}
+
+
+
+.about-us{
+    margin-top: 0%;
+}
+
+
+
+.row-content,content{
+    margin:80px 0px;
+}
+
+.footer{
+    background-color: #D1C4E9;
+}
+
+.footer-content{
+    padding-top: 20px;
+}
