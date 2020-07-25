@@ -1,7 +1,7 @@
 const element = document.getElementById('reserve');
-const btn =  document.getElementById('reserve-btn');
+const btn =  document.getElementById('reserve-click');
 
-addEventListener('click',(e)=>{
+btn.addEventListener('click',(e)=>{
     e.preventDefault();
     element.scrollIntoView();
 });
