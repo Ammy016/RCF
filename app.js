@@ -5,3 +5,7 @@ btn.addEventListener('click',(e)=>{
     e.preventDefault();
     element.scrollIntoView();
 });
+
+$(function () {
+    $('[data-toggle="tooltip"]').tooltip()
+  })
