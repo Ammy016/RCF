@@ -6,6 +6,3 @@ btn.addEventListener('click',(e)=>{
     element.scrollIntoView();
 });
 
-$(function () {
-    $('[data-toggle="tooltip"]').tooltip()
-  })
